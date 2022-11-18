@@ -1,1 +1,1 @@
-Team project on C - printf function
+tasks on printf
